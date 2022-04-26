@@ -1,0 +1,7 @@
+C:\Users\Yusuf Kaygusuz\Desktop\Visual Studio Projeleri\Example-2(Mini ATM Project)\Example-2(Mini ATM Project)\obj\Debug\Example-2(Mini ATM Project).csprojAssemblyReference.cache
+C:\Users\Yusuf Kaygusuz\Desktop\Visual Studio Projeleri\Example-2(Mini ATM Project)\Example-2(Mini ATM Project)\obj\Debug\Example-2(Mini ATM Project).csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Kaygusuz\Desktop\Visual Studio Projeleri\Example-2(Mini ATM Project)\Example-2(Mini ATM Project)\bin\Debug\Example-2(Mini ATM Project).exe.config
+C:\Users\Yusuf Kaygusuz\Desktop\Visual Studio Projeleri\Example-2(Mini ATM Project)\Example-2(Mini ATM Project)\bin\Debug\Example-2(Mini ATM Project).exe
+C:\Users\Yusuf Kaygusuz\Desktop\Visual Studio Projeleri\Example-2(Mini ATM Project)\Example-2(Mini ATM Project)\bin\Debug\Example-2(Mini ATM Project).pdb
+C:\Users\Yusuf Kaygusuz\Desktop\Visual Studio Projeleri\Example-2(Mini ATM Project)\Example-2(Mini ATM Project)\obj\Debug\Example-2(Mini ATM Project).exe
+C:\Users\Yusuf Kaygusuz\Desktop\Visual Studio Projeleri\Example-2(Mini ATM Project)\Example-2(Mini ATM Project)\obj\Debug\Example-2(Mini ATM Project).pdb
